@@ -42,7 +42,7 @@ Some MAC gave us a hint that the particular device is manufactured by google for
 ## Going with Wireshark command.
 After I used the nmap command I learned about wireshark that How important wireshark could be to capture the network packets. Alongside Nmap scanning, I used **Wireshark** to capture real-time packet data to understand what scanning looks like at the network level.
 
-### How I Used It
+How I Used It
 - Opened Wireshark on interface `eth0`
 - Started packet capture
 - Ran: `sudo nmap -sS 192.168.1.0/24` on terminal
